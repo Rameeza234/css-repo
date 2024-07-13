@@ -1,0 +1,17 @@
+/* /* * {
+  background-color: brown;
+
+} */
+#heading2 {
+  background-color: blueviolet;
+}
+.heading {
+  background-color: blue;
+}
+h1,
+p {
+  background-color: brown;
+}
+div > p {
+  background-color: aqua;
+} */
